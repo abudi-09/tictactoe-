@@ -1,6 +1,6 @@
-import React from "react";
+ import React from "react";
 import "./tictactoe.css";
-import circle_icon from "..assets/assets/circle.png";
+ import circle_icon from "..assets/assets/circle.png";
 import cross_icon from "..assets/assets/cross.png";
 let data = ["", "", "", "", "", "", "", "", ""];
 export const tictactoe = () => {
